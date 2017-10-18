@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Ishan Jain <ishanjain28@gmail.com>"]
 license = "MIT"
 description = "A Simple Email Validation Library"
-
+source = "git+https://github.com/ishanjain28/checkmail"
 
 [dependencies]
 regex = "0.2"
