@@ -1,10 +1,13 @@
 [package]
 name = "checkmail"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ishan Jain <ishanjain28@gmail.com>"]
 license = "MIT"
 description = "A Simple Email Validation Library"
-source = "git+https://github.com/ishanjain28/checkmail"
+repository = "https://github.com/ishanjain28/checkmail"
+keywords = ["email", "validation", "regex"]
+categories = ["validation", "no-std"]
+
 
 [dependencies]
 regex = "0.2"
