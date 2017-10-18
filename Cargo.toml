@@ -1,0 +1,11 @@
+[package]
+name = "checkmail"
+version = "0.1.0"
+authors = ["Ishan Jain <ishanjain28@gmail.com>"]
+license = "MIT"
+description = "A Simple Email Validation Library"
+
+
+[dependencies]
+regex = "0.2"
+lazy_static = "0.2"
