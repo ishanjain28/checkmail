@@ -12,3 +12,4 @@ categories = ["validation", "no-std"]
 [dependencies]
 regex = "0.2"
 lazy_static = "0.2"
+lettre = "0.7"
