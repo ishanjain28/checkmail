@@ -1,5 +1,5 @@
 # checkmail
-A Simple Email Validation Library in Rust. See [this](https://www.w3.org/TR/html5/forms.html#valid-e-mail-address) for more information.
+A Simple Email Validation Library in Rust. See [this](https://www.w3.org/TR/html51/sec-forms.html#valid-e-mail-address) for more information.
 
 # Usage
 
